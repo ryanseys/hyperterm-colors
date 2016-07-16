@@ -1,0 +1,13 @@
+{
+  "name": "hyperterm-colors",
+  "version": "0.0.1",
+  "description": "Hyperterm theme",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "colors"
+  ],
+  "author": "Ryan Seys",
+  "license": "Apache 2.0"
+}
