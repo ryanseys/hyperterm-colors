@@ -9,4 +9,4 @@ Add `'hyperterm-colors'` to the `plugins` list in your `~/.hyperterm.js` config 
 ![Screenshot][screenshot]
 
 [hyperterm]: https://hyperterm.org/
-[screenshot]: screenshot.png
+[screenshot]: https://raw.githubusercontent.com/ryanseys/hyperterm-colors/master/screenshot.png
