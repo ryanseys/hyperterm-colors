@@ -9,5 +9,9 @@
     "colors"
   ],
   "author": "Ryan Seys",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanseys/hyperterm-colors.git"
+  },
   "license": "Apache 2.0"
 }
